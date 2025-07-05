@@ -1,4 +1,6 @@
 'use client'
+// Triggered redeploy by adding this comment
+
 import Hero from './components/Hero'
 import Gallery from './components/Gallery'
 
